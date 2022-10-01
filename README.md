@@ -1,5 +1,4 @@
-# 💫 About Me:
-Hi! My name's Owen! I'm a developer from Iowa.
+# Hi, my name's Owen! I'm a developer based in Iowa. Nice to meet you! 👋
 
 
 ## 🌐 Socials:
@@ -16,7 +15,7 @@ Hi! My name's Owen! I'm a developer from Iowa.
 ![](https://github-profile-trophy.vercel.app/?username=owenpete&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=owenpete&icon=9&color=12)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=owenpete&icon=9&color=12)](https://visitcount.itsvg.in) -->
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/owenpete) 
