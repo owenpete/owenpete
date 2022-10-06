@@ -1,5 +1,5 @@
 # About me 👋
-Hi, my name's Owen! I'm a self taught developer based in Iowa. Nice to meet you!
+Hi, my name's Owen! I'm a self-taught developer from in Iowa with a passion for creating with code. Nice to meet you!
 
 
 ## 🌐 Socials:
