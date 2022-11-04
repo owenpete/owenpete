@@ -1,6 +1,5 @@
 # About me 👋
-Hi, my name's Owen! I'm a self-taught developer from in Iowa with a passion for creating with code. Nice to meet you!
-
+Hi, I'm Owen! Nice to meet you!
 
 ## 🌐 Socials:
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13773097/owen) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/owenptrsn) 
