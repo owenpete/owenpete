@@ -1,4 +1,3 @@
-# About me 👋
 Hi, I'm Owen! Nice to meet you!
 
 ## 🌐 Socials:
